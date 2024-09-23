@@ -5,10 +5,11 @@ seaborn
 plotly
 folium
 requests
-dotenv
+python-dotenv
 nltk
-itertools
 geopy
 wordcloud
 textblob
 pandasql
+fsspec
+s3fs
